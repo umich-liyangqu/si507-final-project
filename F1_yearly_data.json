@@ -1,0 +1,550 @@
+[
+  [
+    {
+      "name": "Charles Leclerc",
+      "connection": [
+        "Sauber Ferrari",
+        "Ferrari"
+      ]
+    },
+    {
+      "name": "Ferrari",
+      "connection": [
+        "Alberto Ascari",
+        "Peter Whitehead",
+        "Jose Froilan",
+        "Luigi Villoresi",
+        "Piero Taruffi",
+        "Nino Farina",
+        "Rudi Fischer",
+        "Mike Hawthorn",
+        "Maurice Trintignant",
+        "Robert Manzon",
+        "Umberto Maglioli",
+        "Eugenio Castellotti",
+        "Paul Frere",
+        "Juan Manuel",
+        "Peter Collins",
+        "Luigi Musso",
+        "Alfonso de",
+        "Olivier Gendebien",
+        "Wolfgang von",
+        "Phil Hill",
+        "Tony Brooks",
+        "Dan Gurney",
+        "Jean Behra",
+        "Cliff Allison",
+        "Richie Ginther",
+        "Willy Mairesse",
+        "Giancarlo Baghetti",
+        "Lorenzo Bandini",
+        "Ricardo Rodriguez",
+        "John Surtees",
+        "Ludovico Scarfiotti",
+        "Pedro Rodriguez",
+        "Mike Parkes",
+        "Chris Amon",
+        "Jacky Ickx",
+        "Clay Regazzoni",
+        "Ignazio Giunti",
+        "Mario Andretti",
+        "Arturo Merzario",
+        "Niki Lauda",
+        "Carlos Reutemann",
+        "Gilles Villeneuve",
+        "Jody Scheckter",
+        "Didier Pironi",
+        "Patrick Tambay",
+        "Rene Arnoux",
+        "Michele Alboreto",
+        "Stefan Johansson",
+        "Gerhard Berger",
+        "Nigel Mansell",
+        "Alain Prost",
+        "Jean Alesi",
+        "Gianni Morbidelli",
+        "Ivan Capelli",
+        "Nicola Larini",
+        "Michael Schumacher",
+        "Eddie Irvine",
+        "Mika Salo",
+        "Rubens Barrichello",
+        "Felipe Massa",
+        "Kimi RÃ¤ikkÃ¶nen",
+        "Giancarlo Fisichella",
+        "Luca Badoer",
+        "Fernando Alonso",
+        "Sebastian Vettel",
+        "Charles Leclerc",
+        "Carlos Sainz"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Max Verstappen",
+      "connection": [
+        "STR Renault",
+        "Red Bull Racing TAG Heuer",
+        "Red Bull Racing Honda",
+        "Red Bull Racing RBPT"
+      ]
+    },
+    {
+      "name": "Red Bull Racing RBPT",
+      "connection": [
+        "Max Verstappen"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Sergio Perez",
+      "connection": [
+        "Sauber Ferrari",
+        "McLaren Mercedes",
+        "Force India Mercedes",
+        "Racing Point BWT Mercedes",
+        "Red Bull Racing Honda",
+        "Red Bull Racing RBPT"
+      ]
+    },
+    {
+      "name": "Red Bull Racing RBPT",
+      "connection": [
+        "Max Verstappen",
+        "Sergio Perez"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "George Russell",
+      "connection": [
+        "Williams Mercedes",
+        "Mercedes"
+      ]
+    },
+    {
+      "name": "Mercedes",
+      "connection": [
+        "Nico Rosberg",
+        "Michael Schumacher",
+        "Lewis Hamilton",
+        "Valtteri Bottas",
+        "George Russell"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Carlos Sainz",
+      "connection": [
+        "STR Renault",
+        "Toro Rosso Ferrari",
+        "Renault",
+        "McLaren Renault",
+        "Ferrari"
+      ]
+    },
+    {
+      "name": "Ferrari",
+      "connection": [
+        "Alberto Ascari",
+        "Peter Whitehead",
+        "Jose Froilan",
+        "Luigi Villoresi",
+        "Piero Taruffi",
+        "Nino Farina",
+        "Rudi Fischer",
+        "Mike Hawthorn",
+        "Maurice Trintignant",
+        "Robert Manzon",
+        "Umberto Maglioli",
+        "Eugenio Castellotti",
+        "Paul Frere",
+        "Juan Manuel",
+        "Peter Collins",
+        "Luigi Musso",
+        "Alfonso de",
+        "Olivier Gendebien",
+        "Wolfgang von",
+        "Phil Hill",
+        "Tony Brooks",
+        "Dan Gurney",
+        "Jean Behra",
+        "Cliff Allison",
+        "Richie Ginther",
+        "Willy Mairesse",
+        "Giancarlo Baghetti",
+        "Lorenzo Bandini",
+        "Ricardo Rodriguez",
+        "John Surtees",
+        "Ludovico Scarfiotti",
+        "Pedro Rodriguez",
+        "Mike Parkes",
+        "Chris Amon",
+        "Jacky Ickx",
+        "Clay Regazzoni",
+        "Ignazio Giunti",
+        "Mario Andretti",
+        "Arturo Merzario",
+        "Niki Lauda",
+        "Carlos Reutemann",
+        "Gilles Villeneuve",
+        "Jody Scheckter",
+        "Didier Pironi",
+        "Patrick Tambay",
+        "Rene Arnoux",
+        "Michele Alboreto",
+        "Stefan Johansson",
+        "Gerhard Berger",
+        "Nigel Mansell",
+        "Alain Prost",
+        "Jean Alesi",
+        "Gianni Morbidelli",
+        "Ivan Capelli",
+        "Nicola Larini",
+        "Michael Schumacher",
+        "Eddie Irvine",
+        "Mika Salo",
+        "Rubens Barrichello",
+        "Felipe Massa",
+        "Kimi RÃ¤ikkÃ¶nen",
+        "Giancarlo Fisichella",
+        "Luca Badoer",
+        "Fernando Alonso",
+        "Sebastian Vettel",
+        "Charles Leclerc",
+        "Carlos Sainz"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Lando Norris",
+      "connection": [
+        "McLaren Renault",
+        "McLaren Mercedes"
+      ]
+    },
+    {
+      "name": "McLaren Mercedes",
+      "connection": [
+        "Mika Hakkinen",
+        "Mark Blundell",
+        "David Coulthard",
+        "Kimi RÃ¤ikkÃ¶nen",
+        "Juan Pablo",
+        "Alexander Wurz",
+        "Pedro de",
+        "Lewis Hamilton",
+        "Fernando Alonso",
+        "Heikki Kovalainen",
+        "Jenson Button",
+        "Sergio Perez",
+        "Kevin Magnussen",
+        "Lando Norris",
+        "Daniel Ricciardo"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Lewis Hamilton",
+      "connection": [
+        "McLaren Mercedes",
+        "Mercedes"
+      ]
+    },
+    {
+      "name": "Mercedes",
+      "connection": [
+        "Nico Rosberg",
+        "Michael Schumacher",
+        "Lewis Hamilton",
+        "Valtteri Bottas",
+        "George Russell"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Valtteri Bottas",
+      "connection": [
+        "Williams Renault",
+        "Williams Mercedes",
+        "Mercedes",
+        "Alfa Romeo Ferrari"
+      ]
+    },
+    {
+      "name": "Alfa Romeo Ferrari",
+      "connection": [
+        "Valtteri Bottas"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Esteban Ocon",
+      "connection": [
+        "MRT Mercedes",
+        "Force India Mercedes",
+        "Renault",
+        "Alpine Renault"
+      ]
+    },
+    {
+      "name": "Alpine Renault",
+      "connection": [
+        "Fernando Alonso",
+        "Esteban Ocon"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Kevin Magnussen",
+      "connection": [
+        "McLaren Mercedes",
+        "Renault",
+        "Haas Ferrari"
+      ]
+    },
+    {
+      "name": "Haas Ferrari",
+      "connection": [
+        "Romain Grosjean",
+        "Esteban Gutierrez",
+        "Kevin Magnussen",
+        "Pietro Fittipaldi",
+        "Mick Schumacher",
+        "Nikita Mazepin"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Daniel Ricciardo",
+      "connection": [
+        "HRT Cosworth",
+        "STR Ferrari",
+        "Red Bull Racing Renault",
+        "Red Bull Racing TAG Heuer",
+        "Renault",
+        "McLaren Mercedes"
+      ]
+    },
+    {
+      "name": "McLaren Mercedes",
+      "connection": [
+        "Mika Hakkinen",
+        "Mark Blundell",
+        "David Coulthard",
+        "Kimi RÃ¤ikkÃ¶nen",
+        "Juan Pablo",
+        "Alexander Wurz",
+        "Pedro de",
+        "Lewis Hamilton",
+        "Fernando Alonso",
+        "Heikki Kovalainen",
+        "Jenson Button",
+        "Sergio Perez",
+        "Kevin Magnussen",
+        "Lando Norris",
+        "Daniel Ricciardo"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Yuki Tsunoda",
+      "connection": [
+        "AlphaTauri Honda",
+        "AlphaTauri RBPT"
+      ]
+    },
+    {
+      "name": "AlphaTauri RBPT",
+      "connection": [
+        "Yuki Tsunoda"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Pierre Gasly",
+      "connection": [
+        "Toro Rosso",
+        "Scuderia Toro Rosso Honda",
+        "AlphaTauri Honda",
+        "AlphaTauri RBPT"
+      ]
+    },
+    {
+      "name": "AlphaTauri RBPT",
+      "connection": [
+        "Yuki Tsunoda",
+        "Pierre Gasly"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Sebastian Vettel",
+      "connection": [
+        "STR Ferrari",
+        "RBR Renault",
+        "Red Bull Racing Renault",
+        "Ferrari",
+        "Aston Martin Mercedes",
+        "Aston Martin Aramco Mercedes"
+      ]
+    },
+    {
+      "name": "Aston Martin Aramco Mercedes",
+      "connection": [
+        "Sebastian Vettel"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Fernando Alonso",
+      "connection": [
+        "Renault",
+        "McLaren Mercedes",
+        "Ferrari",
+        "McLaren Honda",
+        "McLaren Renault",
+        "Alpine Renault"
+      ]
+    },
+    {
+      "name": "Alpine Renault",
+      "connection": [
+        "Fernando Alonso",
+        "Esteban Ocon"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Zhou Guanyu",
+      "connection": [
+        "Alfa Romeo Ferrari"
+      ]
+    },
+    {
+      "name": "Alfa Romeo Ferrari",
+      "connection": [
+        "Valtteri Bottas",
+        "Zhou Guanyu"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Alexander Albon",
+      "connection": [
+        "Red Bull Racing Honda",
+        "Williams Mercedes"
+      ]
+    },
+    {
+      "name": "Williams Mercedes",
+      "connection": [
+        "Valtteri Bottas",
+        "Felipe Massa",
+        "Lance Stroll",
+        "Sergey Sirotkin",
+        "Robert Kubica",
+        "George Russell",
+        "Nicholas Latifi",
+        "Jack Aitken",
+        "Alexander Albon"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Lance Stroll",
+      "connection": [
+        "Williams Mercedes",
+        "Racing Point BWT Mercedes",
+        "Aston Martin Mercedes",
+        "Aston Martin Aramco Mercedes"
+      ]
+    },
+    {
+      "name": "Aston Martin Aramco Mercedes",
+      "connection": [
+        "Sebastian Vettel",
+        "Lance Stroll"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Mick Schumacher",
+      "connection": [
+        "Haas Ferrari"
+      ]
+    },
+    {
+      "name": "Haas Ferrari",
+      "connection": [
+        "Romain Grosjean",
+        "Esteban Gutierrez",
+        "Kevin Magnussen",
+        "Pietro Fittipaldi",
+        "Mick Schumacher",
+        "Nikita Mazepin"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Nico Hulkenberg",
+      "connection": [
+        "Williams Cosworth",
+        "Force India Mercedes",
+        "Sauber Ferrari",
+        "Renault",
+        "Racing Point BWT Mercedes",
+        "Aston Martin Aramco Mercedes"
+      ]
+    },
+    {
+      "name": "Aston Martin Aramco Mercedes",
+      "connection": [
+        "Sebastian Vettel",
+        "Lance Stroll",
+        "Nico Hulkenberg"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Nicholas Latifi",
+      "connection": [
+        "Williams Mercedes"
+      ]
+    },
+    {
+      "name": "Williams Mercedes",
+      "connection": [
+        "Valtteri Bottas",
+        "Felipe Massa",
+        "Lance Stroll",
+        "Sergey Sirotkin",
+        "Robert Kubica",
+        "George Russell",
+        "Nicholas Latifi",
+        "Jack Aitken",
+        "Alexander Albon"
+      ]
+    }
+  ]
+]
